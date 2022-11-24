@@ -36,7 +36,7 @@
         do
         
         
-        cd "/mnt/c/Users/user/OneDrive - University of Bristol/data/MyStuff/ClimateDataLab/era5-land/day/p1deg/" 
+        cd "/filepath/ClimateDataLab/era5-land/day/p1deg/" 
         pwd
         
         #--- outputting these extra vars as compressed short precision float (I16) 
